@@ -31,95 +31,94 @@
     }
     /* ************** search pop up ************* */
     
-    .search-popup {
-        background: white;
+    .nav-item i {
+        cursor: pointer;
+    }
+    
+    body {
+        font-family: Arial;
+    }
+    
+    * {
+        box-sizing: border-box;
+    }
+    
+    .openBtn {
+        background: #f1f1f1;
+        border: none;
+        padding: 10px 15px;
+        font-size: 20px;
+        cursor: pointer;
+    }
+    
+    .openBtn:hover {
+        background: #bbb;
+    }
+    
+    .overlay {
+        height: 100%;
+        width: 100%;
+        display: none;
         position: fixed;
+        z-index: 1;
+        top: 50px;
         left: 0;
-        top: 0;
-        height: 100vh;
-        width: 100%;
-        z-index: 6;
-        opacity: 0;
-        visibility: hidden;
+        background-color: rgb(0, 0, 0);
+        background-color: rgba(0, 0, 0, 0.9);
     }
     
-    .search-popup.visible {
-        opacity: 1;
-        visibility: visible;
-        animation: growOut 500ms ease-in-out forwards;
-    }
-    
-    .search-popup .search-content {
-        position: absolute;
-        top: 40%;
-        left: 50%;
-        width: 650px;
-        transform: translate(-50%, -50%);
-    }
-    
-    .search-popup .btn-close {
-        right: 30px;
-        top: 30px;
-        position: absolute;
-    }
-    
-    .btn {
-        color: #fff;
-        border: 0;
-        border-radius: 25px;
-        font-family: 'Roboto', sans-serif;
-        font-size: 14px;
-        font-weight: 400;
-        overflow: hidden;
+    .overlay-content {
         position: relative;
-        display: inline-block;
-        vertical-align: middle;
-        white-space: nowrap;
+        top: 46%;
+        width: 80%;
+        margin-left: 20px;
         text-align: center;
-        transition: all 0.3s ease-in-out;
+        margin-top: 30px;
+        margin: auto;
     }
     
-    .btn:focus {
-        outline: 0;
-        box-shadow: none;
+    .overlay .closebtn {
+        position: absolute;
+        top: 20px;
+        right: 45px;
+        font-size: 50px;
+        cursor: pointer;
+        color: white;
     }
     
-    .btn-default {
-        color: #fff;
-        padding: 9.5px 36px;
-        background-color: #6e72fc;
-        background-image: linear-gradient(315deg, #6e72fc 0%, #3197d6 74%);
-        background-size: 200% auto;
+    .overlay .closebtn:hover {
+        color: #ccc;
     }
     
-    .btn-default:hover {
-        color: #fff;
-        background-position: right center;
+    .overlay input[type=text] {
+        padding: 15px;
+        font-size: 17px;
+        border: none;
+        float: left;
+        width: 80%;
+        background: white;
+        border-radius: 50px;
     }
     
-    .btn-lg {
-        padding: 13px 40px;
-        font-size: 16px;
+    .overlay input[type=text]:hover {
+        background: #f1f1f1;
     }
     
-    .form-control {
-        display: block;
-        border-radius: 25px;
-        width: 100%;
-        padding: 8px 24px;
-        font-size: 14px;
-        line-height: 1.6;
-        color: #8f9bad;
-        background-color: #fff;
-        background-image: none;
-        border: 1px solid #ebebeb;
-        box-shadow: none;
+    .overlay button {
+        float: left;
+        margin-left: 50px;
+        width: 10%;
+        padding: 15px;
+        background: linear-gradient(315deg, #585858 20%, #a0a3a5 44%);
+        font-size: 24px;
+        border: none;
+        cursor: pointer;
+        border-radius: 50px;
     }
     
-    .form-control:focus {
-        border-color: #ad1deb;
-        outline: 0;
-        box-shadow: none;
+    .overlay button:hover {
+        background: linear-gradient(315deg, #990df7 10%, #4e05f7 44%);
+        ;
     }
     /* *************** hero section ************ */
     
