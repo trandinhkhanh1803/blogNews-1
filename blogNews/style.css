@@ -130,6 +130,16 @@ a {
     border-radius: 0 !important;
     padding: 2rem;
 }
+label {
+    margin-bottom: 7px;
+}
+
+.text-danger{
+    color: #d84315;
+}
+.text-muted{
+    color: #999;
+}
 
 
 /* HEADER 
@@ -1683,4 +1693,27 @@ hr.invis3 {
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%
+}
+
+/*************POST**********/
+.form-group{
+    margin-bottom: 20px;
+    position: relative;
+}
+.form-group span{
+    font-weight: 600;
+    font-size: 22px;
+}
+.input-group{
+    position: relative;
+    display: table;
+    border-collapse: separate;
+}
+.input-group .form-control{
+    position: relative;
+    z-index: 1;
+    float: left;
+    width: 100%;
+    margin-bottom: -12px;
+    margin-top: 8px;
 }
