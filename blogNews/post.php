@@ -56,6 +56,22 @@
                                         
                                     </div>
                                 </div>
+                                <div class="form-group">
+                                    <span>
+                                        Ảnh bài viết 
+                                    </span>
+                                    <span class="text-danger">*</span>
+                                </div>
+                                <p class="text-muted">
+                                     Ảnh có dung lượng dưới 200kb và kích cỡ tiêu chuẩn 700x400px. Các ảnh kích cỡ lớn hơn đều có thể gây chậm hoặc không tải được. Ảnh cần rõ nét, phân giải cao để được duyệt bài. Hỗ trợ các định dạng ảnh JPG, PNG, GIF, JPEG. Bạn có thể vào đây để giảm kích thước ảnh
+                                </p>
+                                <form action="#">
+                                <div class="input-file-container">  
+                                    <input class="input-file" id="my-file" type="file">
+                                    <label tabindex="0" for="my-file" class="input-file-trigger">Select a file...</label>
+                                </div>
+                                <p class="file-return"></p>
+                                </form>
                             </form>
                         </div>
                         <div class="col-lg-2"></div>
@@ -86,7 +102,26 @@
 <script src="js/tether.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/custom.js"></script>
+<script>
+    document.querySelector("html").classList.add('js');
 
+var fileInput  = document.querySelector( ".input-file" ),  
+    button     = document.querySelector( ".input-file-trigger" ),
+    the_return = document.querySelector(".file-return");
+      
+button.addEventListener( "keydown", function( event ) {  
+    if ( event.keyCode == 13 || event.keyCode == 32 ) {  
+        fileInput.focus();  
+    }  
+});
+button.addEventListener( "click", function( event ) {
+   fileInput.focus();
+   return false;
+});  
+fileInput.addEventListener( "change", function( event ) {  
+    the_return.innerHTML = this.value;  
+});  
+</script>
 
 </body>
 
