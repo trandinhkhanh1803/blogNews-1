@@ -8,9 +8,9 @@
                         felis eros, varius sit amet volutpat non. </small></h2>
 
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Blog</a></li>
-                    <li class="breadcrumb-item active">Gadgets</li>
+                    <li class="breadcrumb-item"><a href="#">Nhà</a></li>
+
+                    <li class="breadcrumb-item active">Cộng đồng</li>
                 </ol>
             </div>
             <!-- end col -->
@@ -25,7 +25,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-                <?php include 'inc/new.php'; ?>
+                <?php include 'inc/sidebar.php'; ?>
 
                 <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
                     <div class="page-wrapper">
@@ -44,8 +44,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">We visited the ancient theater in
                                                     Macedonia</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -77,8 +77,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">To visit the fairy chimneys and
                                                     antique cities in Turkey</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -110,8 +110,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">Travel to the oldest city in the
                                                     world in Mardin</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -143,8 +143,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">We went to a city made of stone
                                                     houses</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -176,8 +176,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">New mosque in Germany and we have
                                                     video for you</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -209,8 +209,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">A unique beauty from the night view
                                                     of Istanbul</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -242,8 +242,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">The most beautiful bridge designs
                                                     ever</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -275,8 +275,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">A new door to the mysterious
                                                     history</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -308,8 +308,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">The story of white ages in
                                                     Pamukkale</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -341,8 +341,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">Milestone stone statue of 200 years
                                                     ago</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -374,8 +374,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">A short trip to the most beautiful
                                                     martyrs of India</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -407,8 +407,8 @@
                                         </div>
                                         <!-- end media -->
                                         <div class="blog-meta big-meta">
-                                            <span class="color-orange"><a href="tech-category-01.html"
-                                                    title="">Gadgets</a></span>
+                                            <span class="color-orange"><a href="tech-category-01.html" title="">Cộng
+                                                    đồng</a></span>
                                             <h4><a href="single.php" title="">The country symbolizing the birth of
                                                     Buddhism</a></h4>
                                             <p>Aenean interdum arcu blandit, vehicula magna non, placerat elit.
@@ -443,7 +443,7 @@
                                     <li class="page-item"><a class="page-link" href="#">2</a></li>
                                     <li class="page-item"><a class="page-link" href="#">3</a></li>
                                     <li class="page-item">
-                                        <a class="page-link" href="#">Next</a>
+                                        <a class="page-link" href="#">Tiếp</a>
                                     </li>
                                 </ul>
                             </nav>
@@ -461,7 +461,7 @@
 
 <?php include 'inc/footer.php'; ?>
 
-<div class="dmtop">Scroll to Top</div>
+<div class="dmtop">Lên trang đầu</div>
 
 </div>
 <!-- end wrapper -->

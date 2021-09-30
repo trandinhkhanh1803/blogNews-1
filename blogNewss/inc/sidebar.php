@@ -11,7 +11,7 @@
     <!-- end widget -->
 
     <div class="widget">
-        <h2 class="widget-title">Trend Videos</h2>
+        <h2 class="widget-title">Video nổi bật</h2>
         <div class="trend-videos">
             <div class="blog-box">
                 <div class="post-media">
@@ -79,7 +79,7 @@
     <!-- end widget -->
 
     <div class="widget">
-        <h2 class="widget-title">Popular Posts</h2>
+        <h2 class="widget-title">Bài viết phổ biến</h2>
         <div class="blog-list-widget">
             <div class="list-group">
                 <a href="single.php" class="list-group-item list-group-item-action flex-column align-items-start">
@@ -112,7 +112,7 @@
     <!-- end widget -->
 
     <div class="widget">
-        <h2 class="widget-title">Recent Reviews</h2>
+        <h2 class="widget-title">Đánh giá gần đây</h2>
         <div class="blog-list-widget">
             <div class="list-group">
                 <a href="single.php" class="list-group-item list-group-item-action flex-column align-items-start">
@@ -163,7 +163,7 @@
     <!-- end widget -->
 
     <div class="widget">
-        <h2 class="widget-title">Follow Us</h2>
+        <h2 class="widget-title">Theo dõi chúng tôi</h2>
 
         <div class="row text-center">
             <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6">

@@ -107,7 +107,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Science</span>
+                                                                            <span class="menucat">Sự kiện</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -129,7 +129,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Science</span>
+                                                                            <span class="menucat">Sự kiện</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -151,7 +151,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Science</span>
+                                                                            <span class="menucat">Sự kiện</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -173,7 +173,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Science</span>
+                                                                            <span class="menucat">Sự kiện</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -296,7 +296,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Social Media</span>
+                                                                            <span class="menucat">Cuộc thi</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -319,7 +319,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Social Media</span>
+                                                                            <span class="menucat">Cuộc thi</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -343,7 +343,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Social Media</span>
+                                                                            <span class="menucat">Cuộc thi</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -365,7 +365,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Social Media</span>
+                                                                            <span class="menucat">Cuộc thi</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -392,7 +392,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Car News</span>
+                                                                            <span class="menucat">Tin tức</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -415,7 +415,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Car News</span>
+                                                                            <span class="menucat">Tin tức</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -439,7 +439,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Car News</span>
+                                                                            <span class="menucat">Tin tức</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -463,7 +463,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Car News</span>
+                                                                            <span class="menucat">Tin tức</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -489,7 +489,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Worldwide</span>
+                                                                            <span class="menucat">Phong cách sống</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -513,7 +513,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Worldwide</span>
+                                                                            <span class="menucat">Phong cách sống</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -536,7 +536,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Worldwide</span>
+                                                                            <span class="menucat">Phong cách sống</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -558,7 +558,7 @@
                                                                             <div class="hovereffect">
                                                                             </div>
                                                                             <!-- end hover -->
-                                                                            <span class="menucat">Worldwide</span>
+                                                                            <span class="menucat">Phong cách sống</span>
                                                                         </a>
                                                                     </div>
                                                                     <!-- end media -->
@@ -582,13 +582,13 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="category-01.php">Cộng đồng</a>
+                                <a class="nav-link" href="community.php">Cộng đồng</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="category-02.php">Videos</a>
+                                <a class="nav-link" href="videos.php">Videos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="category-03.php">Về Studnet17</a>
+                                <a class="nav-link" href="about.php">Về Studnet17</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="contact.php">Liên hệ</a>

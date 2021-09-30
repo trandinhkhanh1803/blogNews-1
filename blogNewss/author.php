@@ -4,14 +4,13 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-md-8 col-sm-12 col-xs-12">
-                <h2><i class="fa fa-star bg-orange"></i>Về Studnet17<small class="hidden-xs-down hidden-sm-down">Nulla
-                        felis eros, varius sit amet volutpat non. </small></h2>
+                <h2><i class="fa fa-star bg-orange"></i> Tác giả: Jessica</h2>
             </div><!-- end col -->
             <div class="col-lg-4 col-md-4 col-sm-12 hidden-xs-down hidden-sm-down">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="#">Home</a></li>
-                    <li class="breadcrumb-item"><a href="#">Blog</a></li>
-                    <li class="breadcrumb-item active">Về Studnet17</li>
+                    <li class="breadcrumb-item"><a href="#">Nhà</a></li>
+                    <li class="breadcrumb-item"><a href="#">Tác giả</a></li>
+                    <li class="breadcrumb-item active">Jessica</li>
                 </ol>
             </div><!-- end col -->
         </div><!-- end row -->
@@ -23,6 +22,41 @@
         <div class="row">
             <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
                 <div class="page-wrapper">
+                    <div class="custombox authorbox clearfix">
+                        <h4 class="small-title">Vài nét về tác giả</h4>
+                        <div class="row">
+                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-12">
+                                <img src="upload/author.jpg" alt="" class="img-fluid rounded-circle">
+                            </div><!-- end col -->
+
+                            <div class="col-lg-10 col-md-10 col-sm-10 col-xs-12">
+                                <h4><a href="#">Jessica</a></h4>
+                                <p>Quisque sed tristique felis. Lorem <a href="#">visit my website</a> amet,
+                                    consectetur adipiscing elit. Phasellus quis mi auctor, tincidunt nisl eget,
+                                    finibus odio. Duis tempus elit quis risus congue feugiat. Thanks for stop Tech
+                                    Blog!</p>
+
+                                <div class="topsocial">
+                                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="Facebook"><i
+                                            class="fa fa-facebook"></i></a>
+                                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="Youtube"><i
+                                            class="fa fa-youtube"></i></a>
+                                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="Pinterest"><i
+                                            class="fa fa-pinterest"></i></a>
+                                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="Twitter"><i
+                                            class="fa fa-twitter"></i></a>
+                                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="Instagram"><i
+                                            class="fa fa-instagram"></i></a>
+                                    <a href="#" data-toggle="tooltip" data-placement="bottom" title="Website"><i
+                                            class="fa fa-link"></i></a>
+                                </div><!-- end social -->
+
+                            </div><!-- end col -->
+                        </div><!-- end row -->
+                    </div><!-- end author-box -->
+
+                    <hr class="invis1">
+
                     <div class="blog-list clearfix">
                         <div class="blog-box row">
                             <div class="col-md-4">
@@ -313,9 +347,10 @@
             </div><!-- end col -->
 
             <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-                <?php include 'inc/new.php'; ?>
-            </div><!-- end row -->
-        </div><!-- end container -->
+                <?php include 'inc/sidebar.php'; ?>
+            </div><!-- end col -->
+        </div><!-- end row -->
+    </div><!-- end container -->
 </section>
 
 <?php include 'inc/footer.php'; ?>
